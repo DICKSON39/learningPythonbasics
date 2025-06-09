@@ -1,3 +1,5 @@
+
+
 #First Python script
 print("Hello World!")
 print("This is a Python script.")
@@ -7,8 +9,9 @@ print("Please Python humble Me with your knowledge.")
 # Python indentation is crucial for defining blocks of code.
 if 5 > 2:
     print("Five is greater than two!")
-else:
-    print("Five is not greater than two!")
+
+
+
 
 # pythonComments
 # Comments in Python start with a hash symbol (#)
@@ -25,4 +28,10 @@ x = 5
 y = 'Hello World'
 
 print(x)
+print(y)
+
+if 2 < 5:
+    print("Hello World!")
+
+
 
